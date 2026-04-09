@@ -1,4 +1,4 @@
-# 3D-Visualization-of-the-GRB-SN-connection-1-
+# 3D-Visualization-of-the-GRB-SN-connection
 
 Here we present the 3D interactive plot of the Type-II GRBs and the SNe connection. (A sample of the 3D Plots can be found in the main branch of the repository)
 
